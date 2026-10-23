@@ -2,6 +2,8 @@
 
 **A browser-based Formula racing game built with Three.js, TypeScript and Vite. Experience high-speed racing with realistic vehicle physics, intelligent AI drivers, dynamic weather, procedural 3D cars, multiple circuits and immersive audio.**
 
+Live Play Game:= https://techanuruddh.github.io/TECH-ANURUDDH-RACING/?utm_source=chatgpt.com
+
 TECH ANURUDDH RACING is a customized, rebranded version of the original APEX FORMULA project. The game runs directly in a modern web browser using WebGL2. Cars, circuits, textures, sounds and voice lines are generated procedurally at runtime, with no external asset files required.
 
 **Project Branding:** TECH ANURUDDH RACING  
